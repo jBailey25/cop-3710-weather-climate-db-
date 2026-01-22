@@ -5,7 +5,7 @@ This database supports weather and climate data analysis, stores weather data, a
 
 ## High-level Goals:
 - Store weather observations by date and location
-- Support the analysis of trends over time
+- Support the analysis of weather trends over time
 - Identify unusual weather patterns
 - Support user queries for summarized weather information
 
