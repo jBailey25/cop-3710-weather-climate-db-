@@ -18,4 +18,9 @@ This database supports weather and climate data analysis, stores weather data, a
 ## Data Sources:
 The database will use publicly available weather and climate datasets
 
+## Update - Database Application (Part B) :
+This project designa a relational Weather and Climate Analytics databse to store and analyse daily weather observations by station and date. A subset of NOAA GHCHN-D (Global Historical Climatology Network - Daily) data from 02/02/2026 to 02/07/2026 for Orlando, FL and Denver, CO is used as the data source. 
+
+The schema models stations, weather variables, and observations, including a weak entity (Sensor) and an associative entity (Observation). 
+
 
